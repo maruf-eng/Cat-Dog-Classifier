@@ -15,14 +15,6 @@ Amaç, verilen bir görselin **kedi 🐱 mi yoksa köpek 🐶 mi olduğunu** tah
 
 ---
 
-## 📂 Dataset
-Proje, Kaggle’dan alınan **Cat & Dog Dataset** ile gerçekleştirilmiştir.  
-Dataset Train / Validation / Test olarak ayrılmıştır.  
-
-🔗 [Kaggle Dataset](https://www.kaggle.com/datasets)  
-
----
-
 ## 🏗️ Model Mimarisi
 
 ### 1️⃣ CNN (Scratch Model)
