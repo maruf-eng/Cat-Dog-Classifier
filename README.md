@@ -69,7 +69,7 @@ Model: "sequential"
  Trainable params: 164,097 (641.00 KB)
  Non-trainable params: 4,049,571 (15.45 MB)
  Optimizer params: 328,196 (1.25 MB) 
-
+```
 ---
 
 Eğitim Süreci:
@@ -79,6 +79,7 @@ Eğitim Süreci:
 - Epoch: 20 (EarlyStopping ile durduruldu)  
 
 Classification Report Çıktısı:
+```
 
               precision    recall  f1-score   support
 
@@ -88,7 +89,7 @@ Classification Report Çıktısı:
     accuracy                           0.50        96
    macro avg       0.25      0.50      0.33        96
 weighted avg       0.25      0.50      0.33        96
-
+```
 ---
 
 🧾 Sonuçlar:
